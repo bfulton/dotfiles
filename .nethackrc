@@ -1,0 +1,3 @@
+OPTIONS=name:Niles,race:elf,role:wizard,gender:male
+OPTIONS=pettype:dog,dogname:Alice,hilite_pet
+OPTIONS=autopickup,pickup_types:$?!/=
