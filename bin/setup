@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
 ln -sf "$(pwd)/.nethackrc" ~/.nethackrc
+ln -sf "$(pwd)/.gitignore_global" ~/.gitignore_global
+ln -sf "$(pwd)/.gitconfig" ~/.gitconfig
