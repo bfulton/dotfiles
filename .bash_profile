@@ -27,6 +27,9 @@ export NVM_DIR="$HOME/.nvm"
 export ANDROID_HOME=~/Library/Android/sdk
 export PATH="$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/tools/bin:$ANDROID_HOME/platform-tools"
 
+# JetBrains Toolbox command-line scripts
+export PATH="$PATH:$HOME/Library/Application Support/JetBrains/Toolbox/scripts"
+
 ###
 
 # CodeWhisperer post block. Keep at the bottom of this file.
